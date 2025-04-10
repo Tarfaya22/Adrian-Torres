@@ -13,10 +13,12 @@
 <h3>Experiencia laboral</h3>
 <p>Estuve de becario en talgo durante  meses en el departamento de sistemas.</p>
 <p>Mis funciones fueron:</p>
-  - Preparación de equipos 
-  - Resolucion de incidencias de los ususarios
-  - Instalación de software específico
-  - Mantenimiento de equipos
+<ul>
+  <li>Preparación de equipos </li>
+  <li>Resolucion de incidencias de los ususarios</li>
+  <li>Instalación de software específico</li>
+  <li>Mantenimiento de equipos</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarfaya22&show_icons=true&locale=en&layout=compact" alt="tarfaya22" /></p>
 
