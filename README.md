@@ -12,7 +12,7 @@
 
 <h3>Experiencia laboral</h3>
 <p>Estuve de becario en talgo durante  meses en el departamento de sistemas.</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Talgo_logo.svg/1200px-Talgo_logo.svg.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Talgo_logo.svg/1200px-Talgo_logo.svg.png" width="80" height="80"/>
 <p>Mis funciones fueron:</p>
 <ul>
   <li>Preparación de equipos </li>
