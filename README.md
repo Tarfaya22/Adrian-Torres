@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrián Torres Tejero</h1>
+<h1 align="center">Hola 👋, me llamo Adrián Torres Tejero</h1>
 <h3 align="center">Soy estudiante de 1º de DAM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarfaya22&label=Profile%20views&color=0e75b6&style=flat" alt="tarfaya22" /> </p>
